@@ -1,6 +1,6 @@
 Rust Examples : Examples from different tutorials and blogs
 ---
-Rust-lang based examples
+This repository contains some of the Rust-lang examples for understanding some of the language provided concepts and to get familiar with syntax.
 
 Installation and Execution
 ---
