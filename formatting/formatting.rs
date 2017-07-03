@@ -9,7 +9,7 @@ struct City {
 impl Display for City {
     fn fmt(&self, f: &mut Formatter) -> fmt::Result {
         let lat_c = if self.latitude >= 0.0 { 'N' } else { 'S' };
-        let lon_c = if self.longitude >= 0.0 { 'W' } else { 'W' };
+        let lon_c = if self.longitude >= 0.0 { 'E' } else { 'W' };
 
         write!(f, "{}: {:3}°{} {:3}°{}", self.name, self.latitude.abs(), lat_c, self.longitude.abs(), lon_c)
     }
