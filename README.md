@@ -22,6 +22,6 @@ rustc hello.rs
 ```
 * Run below for test cases
 ```
-rustc --test programs/find_max.rs
-./find_max
+rustc --test testing/simple_test.rs
+./simple_test
 ```
