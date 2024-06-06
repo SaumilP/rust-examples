@@ -1,0 +1,24 @@
+[package]
+name = "gql"
+version = "0.1.0"
+edition = "2021"
+authors = ["Saumil Patel <saumil@nomail.com"]
+
+[profile.dev]
+opt-level = 1
+
+[profile.release]
+opt-level = 3
+
+[profile.release-lto]
+inherits = "release"
+lto = true
+
+[dependencies]
+actix-cors = "0.6.4"
+actix-web = "4.4.0"
+actix-web-lab = "0.19.1"
+env_logger = "0.10.0"
+juniper = "0.15.11"
+log = "0.4.20"
+tokio = { version = "1.33.0", features = ["rt", "rt-multi-thread", "macros"]}

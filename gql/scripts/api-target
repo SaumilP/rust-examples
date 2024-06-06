@@ -1,0 +1,7 @@
+POST http://localhost:8080/graphql
+Content-Type: application/json
+@ping.json
+
+POST http://localhost:8080/graphql
+Content-Type: application/json
+@ping2.json

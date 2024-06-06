@@ -1,0 +1,1 @@
+{"query":"{\n  ping{\n    pong2\n  }\n}","variables":null}
