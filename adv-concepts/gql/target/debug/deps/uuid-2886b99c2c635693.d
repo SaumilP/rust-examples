@@ -1,0 +1,12 @@
+/home/admin-and/code/personal/rust-examples/gql/target/debug/deps/uuid-2886b99c2c635693.d: /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/lib.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/mod.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/error.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/error.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/mod.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/error.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/prelude.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/adapter/mod.rs
+
+/home/admin-and/code/personal/rust-examples/gql/target/debug/deps/libuuid-2886b99c2c635693.rmeta: /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/lib.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/mod.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/error.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/error.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/mod.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/error.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/prelude.rs /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/adapter/mod.rs
+
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/lib.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/mod.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/error.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/error.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/mod.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/error.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/prelude.rs:
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/adapter/mod.rs:

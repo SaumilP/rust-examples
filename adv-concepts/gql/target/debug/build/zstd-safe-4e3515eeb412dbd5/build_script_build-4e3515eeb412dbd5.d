@@ -1,0 +1,5 @@
+/home/admin-and/code/personal/rust-examples/gql/target/debug/build/zstd-safe-4e3515eeb412dbd5/build_script_build-4e3515eeb412dbd5.d: /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-safe-7.2.4/build.rs
+
+/home/admin-and/code/personal/rust-examples/gql/target/debug/build/zstd-safe-4e3515eeb412dbd5/build_script_build-4e3515eeb412dbd5: /home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-safe-7.2.4/build.rs
+
+/home/admin-and/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zstd-safe-7.2.4/build.rs:
