@@ -1,4 +1,5 @@
-Rust Examples : Examples from different tutorials and blogs
+
+# DEPRECATED - Rust Examples : Examples from different tutorials and blogs
 ---
 This repository contains some of the Rust-lang examples for understanding some of the language provided concepts and to get familiar with syntax.
 
